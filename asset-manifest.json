@@ -1,0 +1,32 @@
+{
+  "files": {
+    "static/js/0.1b2f7213.chunk.js": "/BudgetAppContext/static/js/0.1b2f7213.chunk.js",
+    "static/js/0.1b2f7213.chunk.js.map": "/BudgetAppContext/static/js/0.1b2f7213.chunk.js.map",
+    "main.js": "/BudgetAppContext/static/js/main.6b35b008.chunk.js",
+    "main.js.map": "/BudgetAppContext/static/js/main.6b35b008.chunk.js.map",
+    "runtime-main.js": "/BudgetAppContext/static/js/runtime-main.6b568dca.js",
+    "runtime-main.js.map": "/BudgetAppContext/static/js/runtime-main.6b568dca.js.map",
+    "static/js/3.310f172a.chunk.js": "/BudgetAppContext/static/js/3.310f172a.chunk.js",
+    "static/js/3.310f172a.chunk.js.map": "/BudgetAppContext/static/js/3.310f172a.chunk.js.map",
+    "static/js/4.884b6b67.chunk.js": "/BudgetAppContext/static/js/4.884b6b67.chunk.js",
+    "static/js/4.884b6b67.chunk.js.map": "/BudgetAppContext/static/js/4.884b6b67.chunk.js.map",
+    "static/js/5.022a51fb.chunk.js": "/BudgetAppContext/static/js/5.022a51fb.chunk.js",
+    "static/js/5.022a51fb.chunk.js.map": "/BudgetAppContext/static/js/5.022a51fb.chunk.js.map",
+    "static/js/6.3d44442a.chunk.js": "/BudgetAppContext/static/js/6.3d44442a.chunk.js",
+    "static/js/6.3d44442a.chunk.js.map": "/BudgetAppContext/static/js/6.3d44442a.chunk.js.map",
+    "static/js/7.e79c8a06.chunk.js": "/BudgetAppContext/static/js/7.e79c8a06.chunk.js",
+    "static/js/7.e79c8a06.chunk.js.map": "/BudgetAppContext/static/js/7.e79c8a06.chunk.js.map",
+    "static/js/8.dd4e3633.chunk.js": "/BudgetAppContext/static/js/8.dd4e3633.chunk.js",
+    "static/js/8.dd4e3633.chunk.js.map": "/BudgetAppContext/static/js/8.dd4e3633.chunk.js.map",
+    "index.html": "/BudgetAppContext/index.html",
+    "precache-manifest.6550fe7ad73f176900f3a8c07f13bb7f.js": "/BudgetAppContext/precache-manifest.6550fe7ad73f176900f3a8c07f13bb7f.js",
+    "service-worker.js": "/BudgetAppContext/service-worker.js",
+    "static/js/0.1b2f7213.chunk.js.LICENSE.txt": "/BudgetAppContext/static/js/0.1b2f7213.chunk.js.LICENSE.txt",
+    "static/js/3.310f172a.chunk.js.LICENSE.txt": "/BudgetAppContext/static/js/3.310f172a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b568dca.js",
+    "static/js/3.310f172a.chunk.js",
+    "static/js/main.6b35b008.chunk.js"
+  ]
+}

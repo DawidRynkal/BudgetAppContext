@@ -1,0 +1,2 @@
+(this["webpackJsonpbudget-app-v2"]=this["webpackJsonpbudget-app-v2"]||[]).push([[7],{61:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n);t.default=function(e){var t=e.transaction;return r.a.createElement(r.a.Fragment,null,r.a.createElement("h1",null,"Details about transaction:"),r.a.createElement("h2",null,r.a.createElement("p",null,"Identity number: ",t.identity),r.a.createElement("p",null,"Category number: ",t.categoryNumber)))}}}]);
+//# sourceMappingURL=7.e79c8a06.chunk.js.map
