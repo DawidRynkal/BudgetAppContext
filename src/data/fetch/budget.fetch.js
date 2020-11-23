@@ -13,17 +13,17 @@ export const fetchBudgetedCategories = async () => {
     return data;
 }
 
-export const addTransaction = async ({ budgetId, values }) => {
+export const addTransaction = async ({ budgetId, data }) => {
     const response = await fetch(`${process.env.REACT_APP_API_URL}/budgets/${budgetId}/transactions`,
         {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
             },
-            body: JSON.stringify(values)
+            body: JSON.stringify(data)
         });
 
 
-    return response.json();
+    return await response.json();
 }
 

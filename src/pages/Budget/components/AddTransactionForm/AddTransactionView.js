@@ -18,7 +18,7 @@ function AddTransactionView() {
     const handleOnSubmitAddTransaction = (values) => {
         mutate({
             budgetId: budget.id,
-            values: values,
+            data: values,
         }).then(() => refetch())
             .then(() => history.goBack())
     }
